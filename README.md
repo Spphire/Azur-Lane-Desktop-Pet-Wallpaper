@@ -2,7 +2,11 @@
 unity project of windows desktop pet wallpaper app with AzurLane characters
 
 
+<video controls width="600">
+  <source src="docs/videos/presentation_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-https://github.com/user-attachments/assets/d2d7d0ae-81d6-4d54-b28f-10441a8173ab
+
 
